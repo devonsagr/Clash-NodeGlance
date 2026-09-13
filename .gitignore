@@ -1,0 +1,18 @@
+# OS Generated
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.userbak
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs & Temporary
+*.log
+scratch/
+tmp/
+temp/
