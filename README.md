@@ -1,4 +1,4 @@
-# 🧭 Clash 节点实时雷达 (Clash Node Radar)
+# 🧭 Clash 节点实时雷达 (Clash NodeGlance)
 
 <div align="center">
 
